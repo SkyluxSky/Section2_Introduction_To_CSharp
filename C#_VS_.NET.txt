@@ -1,0 +1,18 @@
+C# VS. .NET
+
+C# - is a programming language
+
+.NET is a framework for building applications on Windows.
+    -CLR(Common Language Runtime)
+    -Class Library
+
+CLR (Common Language Runtime):
+    -Compiled code is translated into intermediate code called bytecode before being run as assembly(Machine Code).
+    -CLR is responsible for translating bytecode (IL Code) to machine code. 
+
+
+Architecture of C#:
+    -Programs consist of building blocks called classes
+    -Class is a container that contains attributes(fields) and methods
+    -An Assembly is a container for multiple namespaces.
+    -An application is a combination of compiled assemblies.
